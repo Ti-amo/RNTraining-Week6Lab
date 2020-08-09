@@ -22,5 +22,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
-  }
+  },
+  "android": {
+    "package": "com.codingmechanic.mapcuny",
+    "config": {
+       "googleMaps": { "apiKey": "AIzaSyCO7_Qz0QyOdc5gkXTrYOKOeXDH_uvikEo" }   
+    }
+ }
 }
